@@ -1,5 +1,7 @@
 <!--- SPDX-License-Identifier: Apache-2.0 -->
 
+.
+
 # tf2onnx - Convert TensorFlow, Keras, Tensorflow.js and Tflite models to ONNX.
 
 tf2onnx converts TensorFlow (tf-1.x or tf-2.x), keras, tensorflow.js and tflite models to ONNX via command 
